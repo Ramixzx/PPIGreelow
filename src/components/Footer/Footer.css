@@ -1,0 +1,14 @@
+.bg-footer {
+    height: 80px;
+    background-color: #b6c0c9;
+}
+
+.i-size {
+    font-size: 36px;
+}
+
+.style-Map {
+    width: 500px;
+    height: 350px;
+    border: 0;
+}
