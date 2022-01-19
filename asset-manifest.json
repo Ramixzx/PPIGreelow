@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.186bf09f.css",
-    "main.js": "/static/js/main.1f473f78.js",
-    "static/js/787.26bcb2cd.chunk.js": "/static/js/787.26bcb2cd.chunk.js",
-    "index.html": "/index.html",
-    "main.186bf09f.css.map": "/static/css/main.186bf09f.css.map",
-    "main.1f473f78.js.map": "/static/js/main.1f473f78.js.map",
-    "787.26bcb2cd.chunk.js.map": "/static/js/787.26bcb2cd.chunk.js.map"
+    "main.css": "/PPIGreelow/static/css/main.186bf09f.css",
+    "main.js": "/PPIGreelow/static/js/main.1ebfbc1d.js",
+    "static/js/787.26bcb2cd.chunk.js": "/PPIGreelow/static/js/787.26bcb2cd.chunk.js",
+    "index.html": "/PPIGreelow/index.html",
+    "main.186bf09f.css.map": "/PPIGreelow/static/css/main.186bf09f.css.map",
+    "main.1ebfbc1d.js.map": "/PPIGreelow/static/js/main.1ebfbc1d.js.map",
+    "787.26bcb2cd.chunk.js.map": "/PPIGreelow/static/js/787.26bcb2cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.186bf09f.css",
-    "static/js/main.1f473f78.js"
+    "static/js/main.1ebfbc1d.js"
   ]
 }
